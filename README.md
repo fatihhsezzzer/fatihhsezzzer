@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **.NET Core, ReactJS,ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatihhsezzzer](https://github.com/fatihhsezzzer)
+- 👨‍💻 All of my projects are available at [https://github.com/fatihhsezzzer]
 
-- 📝 My personal website [fatihhsezzer.com.tr](fatihhsezzer.com.tr)
+- 📝 My personal website [https://fatihhsezzer.com.tr]
 
 - 💬 Ask me about **ReactJS,.Net,ASP.NET CORE,.NET CORE**
 
