@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihhsezzzer](https://github.com/fatihhsezzzer)
 
-- 📝 My personal website [fatihhsezzer.com.tr](fatihhsezzer.com.tr)
+- 📝 My personal website [fatihhsezzer.com.tr](fatihhsezer.com.tr)
 
 - 💬 Ask me about **React .NET CORE**
 
