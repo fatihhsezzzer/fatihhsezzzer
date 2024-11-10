@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fatihhsezzer@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://fatihhsezer.com.tr/CV.pdf)
+- 📄 Know about my experiences [My CV](https://fatihhsezer.com.tr/Fatih_Sezer_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
